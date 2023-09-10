@@ -11,4 +11,5 @@ func main() {
 	fmt.Println("master bug-fix modify3...")
 	fmt.Println("master bug-fix modify4...")
 	fmt.Println("bug-fix more...")
+	fmt.Println("test push github")
 }
